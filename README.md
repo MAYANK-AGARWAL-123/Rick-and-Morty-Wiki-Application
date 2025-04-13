@@ -36,6 +36,6 @@ This is a web-based encyclopedia of characters from the Rick and Morty universe.
 - **Live Clock**: Needed to be shared across pages. Solved by modularizing into `clock.js` and reusing.
 - **Dark Mode Styling**: Handled with a body class toggle and scoped CSS.
 - **Episode Display**: Original plan was to fetch episode names. To simplify, initially displayed count, can enhance later.
-
+Hosted Link - rick-and-morty-wiki-application.vercel.app
 ---
 Feel free to contribute or expand this project with new features!
